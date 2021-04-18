@@ -4,7 +4,7 @@ usage:
            ________    ______________    _________
     injsh  virus.sh    normal_file.sh    trojan.sh
            --------    --------------    ----------
-          Your Virus   Your python file  Output file
+          Your Virus   Your shell file  Output file
 
 exapmle:
     injsh  virus.sh    vcc-setup.sh       setup.sh
